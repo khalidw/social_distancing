@@ -1,3 +1,6 @@
+# Team:
+@Muhammad Saad Uddin, @Khalid Waleed, @Abdul Basit, @Himanshu Madan, @Muhammad.Ali
+
 # Social Distancing Detection
 In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. Few months ago millions of people are staying at home to help flatten the curve but they are doing their jobs to earn and fulfilling their needs. As vaccine for Covid-19 has not been produced yet so best way to fight against Covid-19 is to wear masks and ensure social distancing.
 Social distancing is a method used to control the spread of contagious diseases. Social distancing implies that people should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a Covid-19.
