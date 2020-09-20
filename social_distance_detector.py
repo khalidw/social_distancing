@@ -3,8 +3,8 @@
 # python social_distance_detector.py --input pedestrians.mp4 --output output.avi
 
 # import the necessary packages
-from pyimagesearch import social_distancing_config as config
-from pyimagesearch.detection import detect_people
+from scripts import social_distancing_config as config
+from scripts.detection import detect_people
 from scipy.spatial import distance as dist
 import numpy as np
 import argparse
